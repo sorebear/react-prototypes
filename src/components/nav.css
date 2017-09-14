@@ -1,0 +1,9 @@
+.nav-item .nav-link.selected {
+    color: #999;
+    background-image: linear-gradient(to bottom, #ddd, #fff);
+    border-bottom-width: 0;
+}
+
+.nav-item .nav-link {
+    border-bottom-width: 0;
+}
